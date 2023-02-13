@@ -4,6 +4,8 @@
 
 [Connection pool](https://d2.naver.com/helloworld/5102792)
 
+[비동기 동기 그리고 쓰레드](https://brunch.co.kr/@springboot/267)
+
 # 공부 자료
 
 [java util](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/package-summary.html)
