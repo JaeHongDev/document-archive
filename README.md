@@ -13,3 +13,6 @@
 # 블로그 시리즈
 
 [아키텍처의 역사](https://herbertograca.com/tag/software-architecture/page/5/)
+
+[스프링 테스트전략](https://github.com/cheese10yun/spring-guide)
+- 스프링부트 3.0으로 바꿔보기
