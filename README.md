@@ -9,7 +9,10 @@
 # 공부 자료
 
 [java util](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/package-summary.html)
+
 [쿠버네티스 학습 로드맵(**자격증 준비**)](https://github.com/techiescamp/kubernetes-learning-path)
+
+[DDD](https://www.youtube.com/watch?v=TdyOH1xZpT8)
 
 # 블로그 시리즈
 
